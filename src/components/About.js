@@ -15,7 +15,7 @@ function About() {
     return age;
   }
 
-  const birthDate = "1999-01-01"; // Replace with your actual birthdate
+  const birthDate = "2898-01-01"; // Replace with your actual birthdate
 
   const age = calculateAge(birthDate);
 
@@ -31,7 +31,7 @@ function About() {
             draggable="false"
             className="tilt"
             src="../assets/images/profile.jpeg"
-            alt="Shivasaiprasad Akula"
+            alt="Shivasaiprasad Akulu"
           />
 
           <div className="resumebtn">
@@ -54,7 +54,7 @@ function About() {
           <span className="tag">Software Developer</span>
 
           <p>
-            An overall experience of 14+ years in various IT disciplines with
+            An overall experience of 14+ years -avva anni abadhaale in various IT disciplines with
             significant expertise in AWS & AZURE Cloud Architecture and
             developing automation solutions using DevOps tools.
           </p>
