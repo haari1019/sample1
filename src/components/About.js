@@ -15,7 +15,7 @@ function About() {
     return age;
   }
 
-  const birthDate = "1999-01-01"; // Replace with your actual birthdate
+  const birthDate = "Sept 29"; // Replace with your actual birthdate
 
   const age = calculateAge(birthDate);
 
@@ -73,7 +73,7 @@ function About() {
             applications on Public Cloud.
           </p>
           <p>
-            Resourceful in building and expanding platform deployment automation
+            Resourceful in building the buildings and expanding the railway platform deployment automation
             and standardization using Infrastructure as code (IaC) and other
             configuration technologies such as Ansible, CloudFormation, Jenkins
             & GIT. Used most of AWS & Azure services to set up platform for
